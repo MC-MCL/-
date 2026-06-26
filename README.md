@@ -1,5 +1,3 @@
-
-```markdown
 # 🎓 Student Life Simulator
 ### *一个基于C++的校园生活模拟游戏*
 
