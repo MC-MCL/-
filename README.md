@@ -28,16 +28,6 @@
 
 ---
 
-## 📸 游戏截图
-
-> TODO: 运行游戏后截取以下画面，放入 `screenshots/` 文件夹
-
-| 校园地图 | 状态面板 | 随机事件 |
-|:---:|:---:|:---:|
-| ![校园](screenshots/campus.png) | ![状态](screenshots/status.png) | ![事件](screenshots/event.png) |
-
----
-
 ## 🏗️ 系统架构
 
 ### 类结构
@@ -347,7 +337,7 @@ limitations under the License.
 ## 👨‍💻 作者
 
 - **开发者**: [Duck]
-
+- [MagiciansWand](https://2015137.xyz)-MagiciansWand官网
 ---
 
 ## 🙏 致谢
@@ -355,15 +345,14 @@ limitations under the License.
 - [SFML](https://www.sfml-dev.org/) - 优秀的 2D 图形库
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON 库
 - [MinGW-w64](https://www.mingw-w64.org/) - Windows 编译环境
-- 虚舟实验室
-
+- [虚舟实验室](https://www.caellab.com/)-虚舟实验室官网
 ---
 
 ## ⭐ Star History
 
 如果这个项目对你有帮助，请点亮右上角的 Star ⭐ ！
 
-[![Star History Chart](https://api.star-history.com/svg?repos=你的用户名/student-simulator&type=Date)](https://star-history.com/#你的用户名/student-simulator&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=MC-MCL/student-simulator&type=Date)](https://star-history.com/#你的用户名/student-simulator&Date)
 
 ---
 
